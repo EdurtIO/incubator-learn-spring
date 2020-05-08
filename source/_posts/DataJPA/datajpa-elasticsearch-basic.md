@@ -1,7 +1,7 @@
 ---
 title: Spring DataJPA ElasticSearch教程(基础版)
 date: 2020-05-07 23:46:05
-tags: [DataJPA]
+tags: [DataJPA,ElasticSearch]
 ---
 
 ---
