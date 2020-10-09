@@ -1,5 +1,5 @@
 ---
-title: Spring DataJPA JDBC教程(基础版)
+title: 整合JDBC教程(基础版)
 date: 2020-05-08 14:38:26
 tags: [DataJPA,JDBC]
 ---

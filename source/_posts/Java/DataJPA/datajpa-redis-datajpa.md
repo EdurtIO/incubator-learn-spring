@@ -1,5 +1,5 @@
 ---
-title: Spring DataJPA Redis教程(JPA实战版)
+title: 整合Redis教程(JPA实战版)
 date: 2020-05-31 13:12:07
 tags: [DataJPA,Redis]
 ---
