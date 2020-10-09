@@ -1,12 +1,12 @@
-title: Learn Spring
-subtitle: Learn Spring
-description: Spring All
-keywords: Spring,SpringBoot,SpringCloud,AOP,IOC
+title: 一起学编程
+subtitle: Java,Python,Koxlin...
+description: 整合各种编程语言
+keywords: Java,Python,Koxlin
 author: edurtio
 language: zh-CN
 timezone: ''
 
-url: https://learn-spring.incubator.edurt.io
+url: https://learn-programming.edurt.io
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
@@ -128,5 +128,5 @@ links:
 
 deploy:
   type: git
-  repository: https://github.com/EdurtIO/learn-spring.incubator.edurt.io.git
+  repository: https://github.com/EdurtIO/learn-programming.edurt.io.git
   branch: master
