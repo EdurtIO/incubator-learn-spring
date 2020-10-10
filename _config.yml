@@ -118,13 +118,15 @@ plugins:
   baidu_analytics:
 
 miscellaneous:
-  open_graph:
+  open_graph: # see http://ogp.me
     fb_app_id:
     fb_admins:
     twitter_id:
     google_plus:
-links:
-  Hexo: http://hexo.io
+  links:
+    轻课堂: https://www.edurt.com
+    大数据学习: https://learn-bigdata.incubator.edurt.io
+    qianmoQ博客: https://qianmoq.com
 
 deploy:
   type: git

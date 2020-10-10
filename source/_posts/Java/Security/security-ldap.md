@@ -13,7 +13,7 @@ tags: [SpringBoot,LDAP]
 ---
 
 |技术|版本|
-|:---:|---|
+|:---:|:---:|
 |Java|1.8+|
 |SpringBoot|2.x.x|
 |Security|5.x|

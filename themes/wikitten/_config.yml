@@ -37,11 +37,11 @@ customize:
 # Widgets
 widgets: # default use category only
   - category
-  # - links
-  # - recent_posts
-  # - archive
-  # - tag
-  # - tagcloud
+  - links
+#  - recent_posts
+#  - archive
+#  - tag
+#  - tagcloud
 
 auto_excerpt:
   enable: true
@@ -50,13 +50,13 @@ auto_excerpt:
 search:
   insight: true # you need to install `hexo-generator-json-content` before using Insight Search
   swiftype: # enter swiftype install key here
-  baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+  baidu: true # you need to disable other search engines to use Baidu search, options: true, false
 
 # History version 
 history_control: # make you wiki has history version control in page
   enable: true
   server_link: https://github.com # recommend use GitHub https://github.com
-  user: qianmoQ
+  user: EdurtIO
   repertory: incubator-learn-spring
   branch: master
 
@@ -80,11 +80,11 @@ plugins:
   busuanzi_count: true # options: true, false - to enable busuanzi site pv statistics
 
 # Miscellaneous
-miscellaneous:
-  open_graph: # see http://ogp.me
-    fb_app_id:
-    fb_admins:
-    twitter_id:
-    google_plus:
-  links:
+#miscellaneous:
+#  open_graph: # see http://ogp.me
+#    fb_app_id:
+#    fb_admins:
+#    twitter_id:
+#    google_plus:
+#  links:
 
